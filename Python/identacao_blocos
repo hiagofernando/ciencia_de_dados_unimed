@@ -1,0 +1,10 @@
+def sacar(valor):
+    salo = 500
+
+    if saldo >= valor:
+        print("Valor sacado")
+        print("Pode retira o dinheiro na boca do caixa")
+
+    print("Obrigado.")
+
+
