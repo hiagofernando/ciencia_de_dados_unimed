@@ -9,5 +9,5 @@ for letra in texto:
 print()  # adiciona uma quebra de linha
 
 #Exemplo com range
-for numero in range(0, 51, 5):
-    print(nuemro, end=' ')
+for numero in range('a', 'z'):
+    print(numero, end=' ')
